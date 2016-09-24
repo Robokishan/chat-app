@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/kishan/android/Android projects/Chat/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e501a68a779f1f28decb333f154541c0f0b4821c">
+        <dex dex="/home/kishan/android/Android projects/Chat/app/build/intermediates/pre-dexed/debug/instant-run_ccfc1749126517b4dabad6b522893d0451724ca2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kishan/android/Android projects/Chat/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2b8a08083988375bb94d3adcf3e102026817e932">
+        <dex dex="/home/kishan/android/Android projects/Chat/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_ee0bc2ba3ec85184373fc549129f34da71b6ec5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kishan/android/Android projects/Chat/app/build/intermediates/exploded-aar/com.android.support/design/24.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8620c018c108eed501bbdb85324b79136373ea44">
+        <dex dex="/home/kishan/android/Android projects/Chat/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.1.0_e239a750b6401692f063d002939cacf079e5e671.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kishan/android/Android projects/Chat/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.0/jars/libs/internal_impl-24.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8c7087216946c546f85a1242a2794c0f271e092c">
+        <dex dex="/home/kishan/android/Android projects/Chat/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.0_50d24758257e69afc6a4649758343698043d8196.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kishan/android/Android projects/Chat/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ba8e8860f7e033c3a503b682337a4bafdf56e6ee">
+        <dex dex="/home/kishan/android/Android projects/Chat/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.0_6686baf87fb730a56112161d8aa1d16b69fc063a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kishan/android/Android projects/Chat/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9340c4f95a4e3916c9ad70296e24576743743712">
+        <dex dex="/home/kishan/android/Android projects/Chat/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.1.0_245a3e3235af7851165e3e969d7194313150c283.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kishan/android/Android projects/Chat/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4157816e81f0820983957687e9a6f4c1cea0f1e5">
+        <dex dex="/home/kishan/android/Android projects/Chat/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.1.0_e4abef2f6d34b24e134bebb5d5f473f84218951b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kishan/android/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/24.1.0/support-annotations-24.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="/home/kishan/android/Android projects/Chat/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.0_688c75b5651b7d95751b88356572fbe6e04960b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kishan/android/Android projects/Chat/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8c854b30eca6c442fe842e66cd3b58c5dd08996f">
+        <dex dex="/home/kishan/android/Android projects/Chat/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.1.0_37d23cecda6b471a7d11da555457ce1b98566797.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kishan/android/Android projects/Chat/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e096a5d8343cc9c5a9f6eded36bd0f4c82f8c83e">
+        <dex dex="/home/kishan/android/Android projects/Chat/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.0_3e37b106010255851d787296191f49af2016f1fa.jar" />
+    </item>
+
+</items>
